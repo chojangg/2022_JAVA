@@ -9,7 +9,6 @@ public class TruckMain {
 		System.out.println("나의 트럭은 " + mytruck.color + "이다.");
 		System.out.println(mytruck.carname + "는 " + mytruck.ton + "톤을 실을수 있다.");		
 		
-
 	}
 
 }

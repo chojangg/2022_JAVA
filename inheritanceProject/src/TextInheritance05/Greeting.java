@@ -1,8 +1,9 @@
 package TextInheritance05;
 
 public class Greeting {
-	public String name = "ÃˆÂ«Â±Ã¦ÂµÂ¿";
-	public void sayHello() {
-		System.out.print("Â¾Â¾ Â¾ÃˆÂ³Ã§Ã‡ÃÂ¼Â¼Â¿Ã¤");
+	public String name="È«±æ¼ø";
+	
+	public void salHello() {
+		System.out.println("¾¾ ¾È³çÇÏ¼¼¿ä");
 	}
 }
